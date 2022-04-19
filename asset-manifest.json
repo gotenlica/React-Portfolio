@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.2a047084.css",
+    "main.js": "/React-Portfolio/static/js/main.2f519c38.js",
+    "static/media/driving-license.pdf": "/React-Portfolio/static/media/driving-license.cc76787b45a93fb45f94.pdf",
+    "static/media/p4.webp": "/React-Portfolio/static/media/p4.585de562bb86c0be7daa.webp",
+    "static/media/p3.webp": "/React-Portfolio/static/media/p3.f2c935ba2d2ad42bae18.webp",
+    "static/media/testimo1.webp": "/React-Portfolio/static/media/testimo1.c77160cec16e12f5bf7e.webp",
+    "static/media/p1.webp": "/React-Portfolio/static/media/p1.936b507edf405828a747.webp",
+    "static/media/testimo3.jpg": "/React-Portfolio/static/media/testimo3.b1fb7413a51e9f0639b1.jpg",
+    "static/media/p2.webp": "/React-Portfolio/static/media/p2.f2a66290060f80d53711.webp",
+    "static/media/testimo2.webp": "/React-Portfolio/static/media/testimo2.31e9ccee3ab71358ba03.webp",
+    "static/media/profile.jpg": "/React-Portfolio/static/media/profile.acf3cc9e7bfbee35d6a9.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.2a047084.css.map": "/React-Portfolio/static/css/main.2a047084.css.map",
+    "main.2f519c38.js.map": "/React-Portfolio/static/js/main.2f519c38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a047084.css",
+    "static/js/main.2f519c38.js"
+  ]
+}
